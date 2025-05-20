@@ -9,11 +9,11 @@ You can find the course playlist here: [System Design Playlist](https://www.yout
 ## About the Course Creators
 
 - **Rohit Negi (Coder Army)**  
-  LinkedIn: (linkedin.com/in/rohit-negi9)  
+  LinkedIn: [profile](linkedin.com/in/rohit-negi9)  
  
 
 - **Aditya Tandon Sir**  
-  LinkedIn: (linkedin.com/in/adityatandon2)  
+  LinkedIn: [Profile](linkedin.com/in/adityatandon2)  
 
 ---
 
