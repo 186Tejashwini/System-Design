@@ -1,0 +1,32 @@
+# Day 2 🗓️  
+Started with the concept of **OOPS** (Object-Oriented Programming System) 💻✨
+
+---
+
+### History of Programming 🕰️
+
+- Initially, **Machine Language** was used. It consists of binary code (`0`s and `1`s) that the computer understands directly.  
+  ⚠️ However, writing programs in machine language is **very error-prone**, **difficult**, and **not scalable**.
+
+- Next came **Assembly Language** 🛠️, which uses mnemonic codes like:  
+  `MOV A, 61H`  
+  to represent machine instructions.  
+  Assembly is easier than machine code but still **low-level**, tedious, and error-prone because it works directly with hardware registers and memory.
+
+- Then, **Procedural Programming Languages** (like C, FORTRAN) were developed. These introduced:  
+  - **Functions**  
+  - **Loops**  
+  - **Control structures**  
+  helping programmers write more organized and reusable code.  
+  ⚠️ But procedural programming struggles with managing large and complex software systems.
+
+- To overcome these limitations, **Object-Oriented Programming (OOP)** was introduced.  
+  OOP models programs as collections of **objects** that represent real-world entities. It promotes:  
+  - 🛡️ **Data encapsulation and security**  
+  - 📈 **Scalability**  
+  - 🔁 **Code reuse**  
+  through concepts like **classes**, **inheritance**, and **polymorphism**.
+
+---
+
+If you want, I can help you add more such highlights or emojis for other topics too! Would you like me to format this as markdown ready to add to your repo?

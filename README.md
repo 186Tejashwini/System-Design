@@ -9,10 +9,16 @@ You can find the course playlist here: [System Design Playlist](https://www.yout
 ## About the Course Creators
 
 - **Rohit Negi (Coder Army)**  
+
   LinkedIn: [https://www.linkedin.com/in/rohit-negi9](https://www.linkedin.com/in/rohit-negi9)  
 
 - **Aditya Tandon Sir**  
   LinkedIn: [https://www.linkedin.com/in/adityatandon2](https://www.linkedin.com/in/adityatandon2)  
+  LinkedIn: [https://www.linkedin.com/in/rohitnegi](https://www.linkedin.com/in/rohitnegi)  
+ 
+
+- **Aditya Tandon Sir**  
+
 
 ---
 
